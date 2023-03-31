@@ -9,7 +9,7 @@ public class P6 {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the nth number");
 		int num=sc.nextInt();
-		
+		// if number grater than zero we say number is positive else negative
 		if(num==0)
 			System.out.println("the number is zero");
 		else if(num>0)

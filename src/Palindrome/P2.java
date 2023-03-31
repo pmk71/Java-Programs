@@ -14,7 +14,8 @@ public class P2 {
 			int temp=num;
 		while(num>0)
 		{
-			int rem=num%10;
+			int rem=num%10; // we can write (int num=num/10); as we are count the digits only,
+			//no need of reminders here
 			count++;
 			num=num/10;
 		}
