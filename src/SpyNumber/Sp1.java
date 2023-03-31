@@ -12,7 +12,7 @@ public class Sp1 {
 		int sum=0;
 		int pr=1;
 
-		// if sum of digit of number is equal to product of digits than the number is said to be neon number
+		// if sum of digit of number is equal to product of digits than the number is said to be spy number
 		// ie 1124  sum=1+1+2+4=8 product=1*1*2*4=8
 		//8=8
 		while(num>0)
