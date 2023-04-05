@@ -1,5 +1,6 @@
 package Fibonaciiseries;
-
+//WAJP to print fibonacci series
+//print first number and add two numbers and swap the numbers
 public class F2 {
 
 	public static void main(String[] args) {

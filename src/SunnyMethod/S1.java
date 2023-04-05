@@ -3,6 +3,7 @@ package SunnyMethod;
 import java.util.Scanner;
 
 //WAJP to check given number or not
+//if number+1==perfect square number than number is said to be sunny number
 public class S1 {
 
 	public static void main(String[] args) {
